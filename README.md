@@ -5,12 +5,12 @@
 Build a smart, visually appealing habit tracking web app designed specifically for busy professionals who want to maintain a healthy lifestyle. The app should support users in integrating sustainable health habits — including workouts, movement, hydration, nutrition, sleep, and mindfulness — into their packed schedules. It should also offer flexibility when workouts aren’t possible by suggesting healthy alternatives.
 
 ## App Structure:
-1. Welcome & Intent
+### 1. Welcome & Intent
 - Start with a warm, professional welcome that speaks to the user’s ambition and lifestyle.
 - Emphasize achievable balance: “You can still take care of your health, even on your busiest days.”
 - Highlight the key goal: Build a consistent routine with at least 2 workouts/week OR equivalent healthy habits.
 
-2. Smart, Personalized Habit Dashboard
+### 2. Smart, Personalized Habit Dashboard
 Users can choose or customize daily/weekly goals such as:
 - Go to the gym or do a 30-min workout (2x/week minimum)
 - Walk 10,000 steps
@@ -23,17 +23,17 @@ Users can choose or customize daily/weekly goals such as:
 
 If users miss a gym day, the app gently suggests alternatives: long walk, home workout, yoga, or extra hydration & sleep focus.
 
-3. Inspirational Nutrition Corner
+### 3. Inspirational Nutrition Corner
 - Rotate quick, healthy meal ideas with links or cards showing prep time, benefits, and “why this helps your goals.”
 - Provide motivational tips for smart snacking and meal planning during the workweek.
 - Optional: AI-generated recipes based on dietary preferences (vegan, high protein, low-carb, etc.).
 
-4. Progress, Motivation & Feedback
+### 4. Progress, Motivation & Feedback
 - Offer positive reinforcement through animations (confetti, thumbs up, motivational quotes).
 - Weekly summaries with streaks, visual progress rings, and areas to improve.
 - Smart nudges: if a habit slips, recommend a gentle reset or swap (e.g., “No gym? Try a 20-minute stretch session today.”).
 
-5. Technical Features
+### 5. Technical Features
 - Modern, clean UI that feels energizing yet calming
 - Fully responsive, optimized for fast mobile use
 - AI habit suggestions based on past behavior & trends
